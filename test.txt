@@ -3,5 +3,6 @@ git --version
 mkdir folder
 git init
 
+cyriltest1
 git config --global help.autocorrect 1
 git config --global code.editor "vim"
