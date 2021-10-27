@@ -1,0 +1,7 @@
+git --version
+
+mkdir folder
+git init
+
+git config --global help.autocorrect 1
+git config --global code.editor "vim"
